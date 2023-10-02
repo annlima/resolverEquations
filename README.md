@@ -26,7 +26,7 @@ Este programa proporciona una implementación de varios métodos numéricos para
 Cuando se le solicite ingresar una función, puede usar notación de Python estándar para expresiones matemáticas. Por ejemplo:
 
 - `x**2 - 2` para representar la función \(x^2 - 2\).
-- `2*x*np.cos(2*x) - (x + 1)**2` para representar \(2x\cos(2x) - (x + 1)^2\).
+- `2*x*cos(2*x) - (x + 1)**2` para representar \(2x\cos(2x) - (x + 1)^2\).
 
 También puede utilizar funciones trigonométricas como `cos`, `sin`, `tan`, etc., junto con operadores matemáticos.
 
